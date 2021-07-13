@@ -1,0 +1,20 @@
+syntax="proto3";
+
+package I_Image_grpc;
+
+
+service I_Image {
+	rpc get_image(I_Image_in) returns (I_Image_out);
+}
+
+message I_Image_in{
+
+}
+
+message I_Image_out{
+	int32 h=1;
+	int32 w=2;
+	int32 format=3;
+	bytes data=4;
+
+}

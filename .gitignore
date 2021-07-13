@@ -1,0 +1,42 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+!unican/software/download/msys2-x86_64-20200903.exe
+*.out
+*.app
+
+# Project
+unican/software/download/eclipse-cpp-2020-06-R-win32-x86_64.zip
+unican/software/download/openjdk-14.0.2_windows-x64_bin.zip
+unican/software/soft/eclipse/
+unican/software/soft/jdk-14.0.2/
+unican/software/soft/msys64/
+unican/software/soft/RIE/
+unican/software/workspace/.metadata/

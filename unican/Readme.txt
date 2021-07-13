@@ -1,0 +1,14 @@
+-Execute the script(scrip.bat) to install all required software
+ 	-Introduce path given in console in MSYS2 installation path
+ 	-Wait until the MSYS2 windowa finishs before pressing the required key
+-Extract RIE.zip in "soft" created folder
+-Extract CameraServer.zip in "workspace" created folder
+-Open eclipse choosing as workspace the "workspace" created folder
+  	-Open CameraServer project
+		-Change "generatedDNSList.data" to set server IP
+		-Change "conflocal.conf" to set server IP
+		-Change "example/fitoptivis/fitoptivis.h" to set server IP
+        	-Compile and execute it using eclipse
+-Camera functionality must be filled in "example/fitoptivis/Componentes/Camera.cpp"
+	-Change Camera::get_image function (now it has an example using OpenCV to capture from USB camera)
+

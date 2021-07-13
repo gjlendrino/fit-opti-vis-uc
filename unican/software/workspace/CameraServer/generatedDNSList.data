@@ -1,0 +1,8 @@
+RIE_DNS_DATA  1
+# Generated DNS List
+# Component type: Camera
+urlRemote_Camera_Comp1_base	192.168.0.103	30000	Comp1_base	Camera_RemoteServer	s0
+urlLocal_Camera_Comp1_base	192.168.0.103	25000	Comp1_base	Camera_Remote	s0
+
+
+

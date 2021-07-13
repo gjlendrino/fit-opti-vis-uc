@@ -1,0 +1,6 @@
+set MINGW_HOME=C:\Users\Thales\Documents\fit-opti-vis\unican\software\soft\msys64\mingw64
+set MSYS_HOME= C:\Users\Thales\Documents\fit-opti-vis\unican\software\soft\msys64
+set PATH=C:\Users\Thales\Documents\fit-opti-vis\unican\software\soft\jdk-14.0.2\bin;C:\Users\Thales\Documents\fit-opti-vis\unican\software\soft\msys64\usr\bin;C:\Users\Thales\Documents\fit-opti-vis\unican\software\soft\msys64\mingw64\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Python38\Scripts\;C:\Program Files\Python38\;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\CMake\bin;C:\Program Files (x86)\GnuPG\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;;C:\Program Files\Microsoft VS Code\bin;C:\Users\Thales\AppData\Local\Microsoft\WindowsApps;C:\Users\Thales\PycharmProjects\fit-opti-vis\dll;
+java -version  
+cd C:\Users\Thales\Documents\fit-opti-vis\unican\software\soft\..  
+C:\Users\Thales\Documents\fit-opti-vis\unican\software\soft\eclipse\eclipse.exe  
